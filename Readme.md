@@ -1,4 +1,10 @@
+##Architecture
+
+![mongo](https://github.com/amank5788/todoapp/assets/88306289/7eeca31c-ceaf-4283-8883-beab573b9f3d)
+
+
 # Documentation for APIs
+
 
 
 :todoId - id of todo database
